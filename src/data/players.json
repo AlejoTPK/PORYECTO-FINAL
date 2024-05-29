@@ -1,0 +1,144 @@
+{
+  "playersData": [
+    {
+      "number": 30,
+      "name": "Lionel Messi",
+      "position": "Delantero",
+      "goals": 700,
+      "age": 34
+    },
+    {
+      "number": 7,
+      "name": "Cristiano Ronaldo",
+      "position": "Delantero",
+      "goals": 800,
+      "age": 36
+    },
+    {
+      "number": 10,
+      "name": "Neymar Jr.",
+      "position": "Delantero",
+      "goals": 200,
+      "age": 29
+    },
+    {
+      "number": 9,
+      "name": "Robert Lewandowski",
+      "position": "Delantero",
+      "goals": 500,
+      "age": 32
+    },
+    {
+      "number": 17,
+      "name": "Kevin De Bruyne",
+      "position": "Centrocampista",
+      "goals": 100,
+      "age": 30
+    },
+    {
+      "number": 4,
+      "name": "Sergio Ramos",
+      "position": "Defensa",
+      "goals": 120,
+      "age": 35
+    },
+    {
+      "number": 1,
+      "name": "Manuel Neuer",
+      "position": "Portero",
+      "goals": 0,
+      "age": 35
+    },
+    {
+      "number": 17,
+      "name": "Dayro Moreno",
+      "position": "Delantero",
+      "goals": 225,
+      "age": 36
+    },
+    {
+      "number": 3,
+      "name": "Gerard Piqué",
+      "position": "Defensa",
+      "goals": 50,
+      "age": 34
+    },
+    {
+      "number": 6,
+      "name": "Paul Pogba",
+      "position": "Centrocampista",
+      "goals": 70,
+      "age": 28
+    },
+    {
+      "number": 2,
+      "name": "Dani Carvajal",
+      "position": "Defensa",
+      "goals": 10,
+      "age": 29
+    },
+    {
+      "number": 12,
+      "name": "Marcelo Vieira",
+      "position": "Defensa",
+      "goals": 30,
+      "age": 33
+    },
+    {
+      "number": 20,
+      "name": "Bernardo Silva",
+      "position": "Centrocampista",
+      "goals": 50,
+      "age": 27
+    },
+    {
+      "number": 22,
+      "name": "Hakim Ziyech",
+      "position": "Centrocampista",
+      "goals": 70,
+      "age": 28
+    },
+    {
+      "number": 7,
+      "name": "Raheem Sterling",
+      "position": "Delantero",
+      "goals": 120,
+      "age": 26
+    },
+    {
+      "number": 14,
+      "name": "Jordan Henderson",
+      "position": "Centrocampista",
+      "goals": 40,
+      "age": 31
+    },
+    {
+      "number": 21,
+      "name": "Frenkie de Jong",
+      "position": "Centrocampista",
+      "goals": 20,
+      "age": 24
+    },
+    {
+      "number": 10,
+      "name": "Leroy Sané",
+      "position": "Delantero",
+      "goals": 80,
+      "age": 25
+    },
+    {
+      "number": 26,
+      "name": "Kalidou Koulibaly",
+      "position": "Defensa",
+      "goals": 15,
+      "age": 30
+    },
+    {
+      "number": 8,
+      "name": "Antoine Griezmann",
+      "position": "Delantero",
+      "goals": 180,
+      "age": 30
+    }
+  ]
+}

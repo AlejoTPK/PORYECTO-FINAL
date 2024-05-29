@@ -1,0 +1,28 @@
+.table_th-color th {
+  background-color: #12171f;
+  color: white;
+  border-bottom: 3px solid red;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.nav-center {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 500px;
+  background-color: white;
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
